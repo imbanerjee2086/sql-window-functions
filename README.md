@@ -1,4 +1,3 @@
-# sql-window-functions
 Advanced SQL using window functions
 # SQL Window Functions Project
 
